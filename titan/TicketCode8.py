@@ -1,3 +1,3 @@
 Welcome to Git Learning
-Line A-LocalChange
+Line A-RemoteChange
 Line B
