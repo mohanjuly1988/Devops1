@@ -1,3 +1,2 @@
 Line C → Local change
-Line A → Remote Version
-
+Line A is changed in Remote. 
