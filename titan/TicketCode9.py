@@ -1,3 +1,3 @@
 Welcome to Git Deep Learning
-Line A
+Line A → Remote Version
 Line B
