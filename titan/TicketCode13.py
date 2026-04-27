@@ -1,3 +1,3 @@
 Welcome to Rebase Practice
-Line A
+Line A - Remote
 Line B
