@@ -1,3 +1,3 @@
-Welcome to Rebase Practice
-Line A
-Line B
+Texas Welcomes you!
+Have a pleasant stay in Houston!
+ 
