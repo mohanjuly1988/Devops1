@@ -1,2 +1,2 @@
 Welcome to Rebase Demo
-Line A - Remote
+Line A - Remote + Local
