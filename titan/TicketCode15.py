@@ -1,3 +1,3 @@
 Welcome to Feature Branch
-Line A - Local
+Line A - Local + Remote
 Line B
